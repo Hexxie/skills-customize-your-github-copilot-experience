@@ -58,8 +58,7 @@
           "type": "csv"
         }
       ]
-    }
-    ,
+    },
     {
       "id": "rest-api-fastapi",
       "title": "Building REST APIs with FastAPI",
@@ -78,6 +77,13 @@
           "type": "text"
         }
       ]
+    },
+    {
+      "id": "modular-python-design",
+      "title": "Modular Python Design",
+      "description": "Organize Python programs into reusable modules, separate logic from I/O, and use a proper main entry point.",
+      "path": "assignments/modular-python-design",
+      "dueDate": "2026-07-02"
     }
   ]
 }
